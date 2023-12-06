@@ -10,6 +10,7 @@
 * sklearn
 * numpy
 * statsmodels
+* LGBMRegressor
 
 
 
