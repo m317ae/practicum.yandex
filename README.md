@@ -7,4 +7,4 @@
 
 | #    | Наименование проекта                | Описание                                                     | Стек                                                         |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1.   | [Телеком отток клиентов]([https://github.com/aq2003/Portfolio/tree/main/Gold%20Recovery](https://github.com/m317ae/practicum.yandex/tree/main/%D0%A1%D0%BF%D1%80%D0%B8%D0%BD%D1%82%2022%2C%20%D0%B2%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%BD%D0%BE%D0%B9%20%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%BE%D0%BC)) |Прогнозирование оттока абонентов провайдера | pandas, sklearn, numpy, seaborn, phik, catboost, lightgbm |
+| 1.   | [Телеком отток клиентов](https://github.com/m317ae/practicum.yandex/tree/main/%D0%A1%D0%BF%D1%80%D0%B8%D0%BD%D1%82%2022%2C%20%D0%B2%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%BD%D0%BE%D0%B9%20%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%BE%D0%BC) |Прогнозирование оттока абонентов провайдера | pandas, sklearn, numpy, seaborn, phik, catboost, lightgbm |
